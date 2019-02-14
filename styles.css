@@ -1,0 +1,23 @@
+.menu-hamburguer{
+    display: flex;
+    flex-direction: column;
+}
+
+.traco{
+    border: 2px solid black;
+    background-color: black;
+    border-radius: 5px;
+    height: 2px;
+    margin: 2px 0;
+    width: 37px;
+    cursor: pointer;
+}
+
+.nav-menuHamburguer{
+    display: none;
+    
+}
+
+.abrirMenuHamburguer{
+    display: flex;
+}
